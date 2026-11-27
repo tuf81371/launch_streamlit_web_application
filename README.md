@@ -7,7 +7,11 @@ Streamlit is designed to help data scientists and developers quickly create and 
 Launch Streamlit Application
   st.title()
   st.write()
+
+  
 Launch Streamlit Application - Excel and PDF uploader with button
+  st.title()
+  st.columns()
   st.subheader()
   st.fileuploader()
   st.button()
